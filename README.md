@@ -206,3 +206,5 @@ client = BotSocietyClient(user_id="USER_ID",
 ## License
 
 Licensed under the Apache License, Version 2.0. Copyright 2018 Rasa Technologies GmbH. [Copy of the license](LICENSE).
+
+[![Run on Repl.it](https://repl.it/badge/github/RasaHQ/botsociety-py-client)](https://repl.it/github/RasaHQ/botsociety-py-client)
